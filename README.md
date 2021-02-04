@@ -1,5 +1,5 @@
 # Digital-Stopwatch
- The Project Objective is to implement a digital stopwatch using ATmega16 microcontroller and LCD module.
+ The Project Objective is to implement a digital stopwatch based on ATmega16 microcontroller and multiplexed 7-segment modules.
  
  #### ATmega16 Modules:
  - Timer1 CTC Mode is used to count the time for the stop watch.
